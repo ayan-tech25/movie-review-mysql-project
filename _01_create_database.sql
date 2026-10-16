@@ -1,4 +1,4 @@
---database creation
+-- database creation
 -- movie_review_system
 
-create databse movie_review_system if not exists;
+create database if not exists movie_review_system ;
